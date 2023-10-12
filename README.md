@@ -1,5 +1,5 @@
 # Project Origin
-This is a modified version of the "quantum_transfer_learning" project from Xanadu, which can be found at the following URL: https://github.com/XanaduAI/quantum-transfer-learning/blob/master/c2q_transfer_learning_cifar.ipynb. We have made several modifications to the original code, including:
+This is a revised and modified version of the "quantum_transfer_learning" project from Xanadu, which can be found at the following URL: https://github.com/XanaduAI/quantum-transfer-learning/blob/master/c2q_transfer_learning_cifar.ipynb. We have made several modifications to the original code, including:
 
 * Changing the binary classification task to a multi-class classification task
 * Writing our own PyTorch version of the train and validate modules, which are more organized and easier to understand
