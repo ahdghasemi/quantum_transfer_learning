@@ -5,8 +5,6 @@ git clone https://github.com/username/QuantumTransferLearning.git
 cd QuantumTransferLearning
 pip install -r requirements.txt
 
-Replace "username" with your GitHub username.
-
 # Running the Code
 To train and evaluate the model on the CIFAR10 dataset, run the following command:
 
